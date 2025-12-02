@@ -1,0 +1,51 @@
+<html>
+    <head>
+        <title>Hubungi Kami</title>
+    </head>
+    <body bgcolor="lightgreen">
+        <p style="text-align: center;"><strong>Formulir Pengaduan</strong></p>
+        <p style="text-align: center;">
+            <em><span style="color: #800080;">(isilah Form Berikut ini)</span></em>
+        </p>
+
+        <hr>
+
+        <form>
+            <center>
+                <table>
+                    <tr>
+                        <td><label>Nama Lengkap</label></td>
+                        <td>:</td>
+                        <td><input type="text"></td>
+                    </tr>
+
+                    <tr>
+                        <td><label>Alamat</label></td>
+                        <td>:</td>
+                        <td><input type="text"></td>
+                    </tr>
+
+                    <tr>
+                        <td><label>No. HP</label></td>
+                        <td>:</td>
+                        <td><input type="text"></td>
+                    </tr>
+
+                    <tr>
+                        <td><label>Pesan</label></td>
+                        <td>:</td>
+                        <td>
+                            <textarea rows="5" cols="75"></textarea>
+                        </td>
+                    </tr>
+
+                    <tr>
+                        <td></td>
+                        <td>:</td>
+                        <td><input type="submit" value="KIRIM"></td>
+                    </tr>
+                </table>
+            </center>
+        </form>
+    </body>
+</html>
